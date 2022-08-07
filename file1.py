@@ -1,2 +1,2 @@
 print(2+3)
-print("Success")
+print("Successfully added the sum")
